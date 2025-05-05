@@ -26,3 +26,15 @@ Flexbox and Grid for responsive designs
 Basic animations and transitions
 
 Custom fonts and color schemes
+
+ FUTURE IMPROVEMENTS
+
+Add JavaScript for dynamic features (e.g., form validation, interactive elements)
+
+Integrate a backend for user authentication
+
+Add a blog section for fitness tips and articles
+
+LICENSE
+
+This project is open source and free to use for educational or personal purposes.
